@@ -7,12 +7,4 @@
     android:orientation="vertical"
     tools:context="com.example.holmesk.taijitu.MainActivity">
 
-
-    <Button
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="asdsadasdasdsa"
-        android:textSize="23dp"/>
-
-
 </LinearLayout>
